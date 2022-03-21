@@ -45,9 +45,11 @@ hello
 
 # Kernel Module Compile Results
 *.mod*
+*.bin
 *.cmd
 .tmp_versions/
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+labrabota3-1.bin
